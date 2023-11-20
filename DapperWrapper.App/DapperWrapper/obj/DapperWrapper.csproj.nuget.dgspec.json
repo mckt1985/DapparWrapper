@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\michael.tracey\\source\\repos\\mckt1985\\DapperWrapper\\DapperWrapper.App\\DapperWrapper\\DapperWrapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\michael.tracey\\source\\repos\\mckt1985\\DapperWrapper\\DapperWrapper.App\\DapperWrapper\\DapperWrapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michael.tracey\\source\\repos\\mckt1985\\DapperWrapper\\DapperWrapper.App\\DapperWrapper\\DapperWrapper.csproj",
+        "projectName": "DapperWrapper",
+        "projectPath": "C:\\Users\\michael.tracey\\source\\repos\\mckt1985\\DapperWrapper\\DapperWrapper.App\\DapperWrapper\\DapperWrapper.csproj",
+        "packagesPath": "C:\\Users\\michael.tracey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michael.tracey\\source\\repos\\mckt1985\\DapperWrapper\\DapperWrapper.App\\DapperWrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\michael.tracey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

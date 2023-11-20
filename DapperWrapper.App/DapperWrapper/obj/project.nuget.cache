@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBOj8iSeqWOk94csDBF/xusNnMFjrKLxcuetnmK8lbN4dvnx0XXB8eWkCxULGsQJv96zyIeXPg6f3Rr9ANPYSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\michael.tracey\\source\\repos\\mckt1985\\DapperWrapper\\DapperWrapper.App\\DapperWrapper\\DapperWrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michael.tracey\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512",
+    "C:\\Users\\michael.tracey\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
